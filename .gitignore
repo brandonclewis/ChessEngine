@@ -1,0 +1,43 @@
+/Chess Engine/[Ll]ibrary/
+/Chess Engine/[Tt]emp/
+/Chess Engine/[Oo]bj/
+/Chess Engine/[Bb]uild/
+/Chess Engine/[Bb]uilds/
+/Chess Engine/[Ll]ogs/
+/Chess Engine/[Uu]ser[Ss]ettings/
+/Chess Engine/[Mm]emoryCaptures/
+/Chess Engine/[Rr]ecordings/
+/Chess Engine/[Aa]ssets/Plugins/Editor/JetBrains*
+/Chess Engine/.vs/
+/Chess Engine/.idea/
+/Chess Engine/.gradle/
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+sysinfo.txt
+
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+crashlytics-build.properties
+
+/Chess Engine/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
